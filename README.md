@@ -6,7 +6,8 @@ Beautiful sparkline charts for Flutter.
 
 ### Quick Start 
 
-'import 'package:flutter/material.dart';
+```
+import 'package:flutter/material.dart';
 import 'package:chart_sparkline/chart_sparkline.dart';
 
 void main() {
@@ -26,7 +27,8 @@ data: data,
 ),
 ),
 );
-}'
+}
+```
 
 
 
